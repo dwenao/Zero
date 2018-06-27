@@ -9,5 +9,5 @@
     "explorer.confirmDelete": false,
     "window.zoomLevel": 0,
     "vsicons.dontShowNewVersionMessage": true,
-    "python.pythonPath": "python" // 此处可以改成自己的python路径
+    "python.pythonPath": "F:\\Anaconda\\python.exe" // 此处可以改成自己的python路径
 }
